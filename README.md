@@ -6,3 +6,4 @@ Tecnologias utilizadas en este proyecto:
 * JS
 * FONTAWESOME
 * SWIPPER
+Agregado SEO, popUpWhatsapp // 
