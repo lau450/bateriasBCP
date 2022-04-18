@@ -15,10 +15,8 @@ popupWhatsApp = () => {
   })
   
   sendBtn.addEventListener("click", () => {
-  let msg = document.getElementById('whats-in').value;
-  let relmsg = msg.replace(/ /g,"%20");
      
-   window.open('https://wa.link/h7iu8s'+relmsg, '_blank'); 
+   window.open('https://wa.link/lu5rlm'); 
   
   });
 
